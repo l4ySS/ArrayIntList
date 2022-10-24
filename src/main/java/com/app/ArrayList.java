@@ -1,4 +1,7 @@
+package com.app;
+
 public class ArrayList {
+
     private static final int DEFAULT = 2;
     private int SIZE;
     private int current;
