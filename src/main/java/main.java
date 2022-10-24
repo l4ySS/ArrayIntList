@@ -7,10 +7,11 @@ public class main {
         A.add(5);
         A.add(6);
         A.add(8);
-        System.out.print(A.get(0) + "\n");
+        System.out.print(A.get(2) + "\n");
         A.print();
         System.out.print("\n");
-        A.remove(4);
+        A.remove(3);
         A.print();
+        System.out.print("\n");
     }
 }
